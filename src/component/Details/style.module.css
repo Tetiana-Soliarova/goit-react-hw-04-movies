@@ -1,0 +1,35 @@
+.image{ 
+    margin: 5px;
+    margin-left: 15px;
+}
+.content{
+    display: flex;
+    
+}
+.overview{
+    display: block;
+    width: 80%;
+}
+.details{
+    margin-left: 20px;
+    list-style-type: none;
+}
+
+.genres{
+    display: inline-flex;
+    padding: 5px;
+    margin-top: 0px;
+}
+
+.button{
+    margin-left: 25px;
+}
+.movies{
+color: black;
+}
+
+.Moviesactive{
+color: rgb(72, 15, 230);
+
+
+};

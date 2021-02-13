@@ -1,0 +1,23 @@
+
+.NavLink{
+color: black;
+list-style-type: none;
+}
+
+.NavLink--active{
+color: red;
+
+}
+
+.Movies{
+color: black;
+}
+
+.Movies--active{
+color: red;
+
+};
+
+li{
+  list-style-type: none;
+}

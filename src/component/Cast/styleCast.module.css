@@ -1,0 +1,22 @@
+.foto{
+    width: 150px;
+    height: 225px;
+    background-color: rgb(245, 239, 239);
+    margin-left: 20px;
+}
+
+.card{
+    display: inline-block;
+   border: 1px solid rgb(238, 227, 227);
+    margin: 10px;
+    width: 240px;
+    background-color: rgb(245, 239, 239);
+    
+}
+
+.textCard{
+    text-align: center;
+}
+.text{
+    height: 100px;
+}
